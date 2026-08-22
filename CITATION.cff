@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, cite the paper below."
+title: "3D photogrammetry improves measurement of growth and biodiversity patterns in branching corals"
+authors:
+  - family-names: Stier
+    given-names: Adrian C.
+preferred-citation:
+  type: article
+  title: "3D photogrammetry improves measurement of growth and biodiversity patterns in branching corals"
+  year: 2023
+  journal: "coral reefs"
+  doi: 10.1007/s00338-023-02367-7
